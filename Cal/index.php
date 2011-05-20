@@ -1,3 +1,15 @@
+<!--
+Please do not remove this!
+
+-------------------------------------------
+Simple Calendar by Marko Kaartinen
+-------------------------------------------
+Www: www.markokaartinen.net
+E-mail: markokaartinen [at] gmail [dot] com
+-------------------------------------------
+
+Please do not remove this text!
+-->
 <!DOCTYPE html>
 <html lang="fi">
 <head>
