@@ -25,6 +25,11 @@ body {
 	width: 20%;
 }
 
+#calControls a {
+	text-decoration: none;
+	color: #000000;
+}
+
 .calClear {
 	clear: both;
 }
