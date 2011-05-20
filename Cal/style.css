@@ -23,8 +23,6 @@ body {
 	text-align: right;
 	font-size: 14px;
 	width: 20%;
-	display: table-cell;
-	vertical-align: bottom;
 }
 
 .calClear {
