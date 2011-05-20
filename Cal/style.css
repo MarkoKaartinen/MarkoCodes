@@ -1,0 +1,87 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family: Arial, Verdana;
+	margin:20px;
+	font-size: 12px;
+}
+
+#calHeader {
+}
+
+#calHeading {
+	float: left;
+	width: 80%;
+	font-size: 28px;
+}
+
+#calControls {
+	float: right;
+	text-align: right;
+	font-size: 14px;
+	width: 20%;
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+.calClear {
+	clear: both;
+}
+
+#calTable {
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	width: 100%;
+}
+
+#calTable tr td {
+	border-top: 1px solid #000000;
+	border-right: 1px solid #000000;
+	vertical-align:top;
+}
+
+#calTable #headings td {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	width: 14%;
+}
+
+#calTable #headings .weekhead {
+	width:2%;
+	font-size: 12px;
+}
+
+#calTable .week {
+	font-size: 12px;
+	text-align: center;
+}
+
+#calTable .empty .dayhead {
+	text-align: right;
+	background: #FFFFFF;
+	padding:2px 4px;
+	color:#cecece;
+}
+
+#calTable .day {
+}
+
+#calTable .today {
+	background: #FBEFEF;
+}
+
+#calTable .today .dayhead {
+	text-align: right;
+	background: #F6CECE;
+	padding:2px 4px;
+}
+
+#calTable .day .dayhead {
+	text-align: right;
+	background: #E0ECF8;
+	padding:2px 4px;
+}
