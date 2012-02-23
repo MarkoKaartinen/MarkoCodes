@@ -1,5 +1,5 @@
 <!--
-Please do not remove this!
+Please do not remove this text!
 
 -------------------------------------------
 Simple Calendar by Marko Kaartinen
